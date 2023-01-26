@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bf648fbec1c9c64e849fe795f6e3392, type: 3}
+  m_Name: MedKit
+  m_EditorClassIdentifier: 
+  m_itemData:
+    m_itemName: MedKit
+    m_itemDesc: A medical supply for health care
+    m_itemIcon: {fileID: 21300000, guid: 134147d4aab81e64fbb13cf3dba0abfa, type: 3}
+    m_isStackable: 1
+    m_scorePerItem: 50
+    m_priorityState: 2
+    m_itemPriority: 1
+    m_itemPrefab: {fileID: 770063103873798440, guid: 40a830ae4db0fca4b8923a4b15fbc58f, type: 3}

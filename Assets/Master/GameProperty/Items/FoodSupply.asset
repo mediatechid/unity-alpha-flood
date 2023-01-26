@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bf648fbec1c9c64e849fe795f6e3392, type: 3}
+  m_Name: FoodSupply
+  m_EditorClassIdentifier: 
+  m_itemData:
+    m_itemName: Food
+    m_itemDesc: 
+    m_itemIcon: {fileID: 21300000, guid: 94aa0d8594c2c414db99bf4bc83819c8, type: 3}
+    m_isStackable: 1
+    m_scorePerItem: 20
+    m_priorityState: 1
+    m_itemPriority: 0
+    m_itemPrefab: {fileID: 5000342166402033328, guid: f82418aa67e849d4db03d960f84617a0, type: 3}
